@@ -1,0 +1,24 @@
+[19:37:22] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[19:37:22] [Server thread/INFO]: Loading properties
+[19:37:22] [Server thread/INFO]: Default game type: SURVIVAL
+[19:37:22] [Server thread/INFO]: Generating keypair
+[19:37:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:37:22] [Server thread/INFO]: Using default channel type
+[19:37:23] [Server thread/INFO]: Preparing level "world"
+[19:37:23] [Server thread/INFO]: Loaded 488 advancements
+[19:37:24] [Server thread/INFO]: Preparing start region for level 0
+[19:37:25] [Server thread/INFO]: Preparing spawn area: 7%
+[19:37:26] [Server thread/INFO]: Preparing spawn area: 76%
+[19:37:26] [Server thread/INFO]: Done (3,164s)! For help, type "help" or "?"
+[19:37:36] [Server thread/INFO]: Opped Keav030
+[19:37:44] [Server thread/INFO]: Could not op Keav2001
+[19:37:57] [Server thread/INFO]: Could not op Keav2001
+[19:38:11] [Server thread/INFO]: Opped Kev030
+[19:38:20] [Server thread/INFO]: Stopping server
+[19:38:20] [Server thread/INFO]: Saving players
+[19:38:20] [Server thread/INFO]: Saving worlds
+[19:38:20] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[19:38:20] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[19:38:20] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[19:38:20] [Server Shutdown Thread/INFO]: Stopping server
+[19:38:20] [Server Shutdown Thread/INFO]: Saving players
